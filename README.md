@@ -6,5 +6,5 @@ En este proyecto usaremos diferentes herramientas y librerias de python para des
 
 * Prueba de hipotesis comprobar si la clase social afecta o no la supervivencia 
 
-*Entrenamiento de modelo Machine Learning para predecir de acuerdo a algunas caracteristicas si sobrevivio o no sobrevivio, haciendo validacion cruzada y buscando mejor hiperparametros
+* Entrenamiento de modelo Machine Learning para predecir de acuerdo a algunas caracteristicas si sobrevivio o no sobrevivio, haciendo validacion cruzada y buscando mejor hiperparametros
 
